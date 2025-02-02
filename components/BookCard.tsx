@@ -28,7 +28,7 @@ const BookCard = ({
           <div className="mt-3 w-full">
             <div className="book-loaned">
               <Image
-                src="/icons/calender.svg"
+                src="/icons/calendar.svg"
                 alt="calender"
                 width={18}
                 height={18}
